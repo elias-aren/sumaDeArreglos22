@@ -1,2 +1,2 @@
-# sumaDeArreglos22
+# ejercicio1
 Created with CodeSandbox
